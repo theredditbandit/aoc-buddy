@@ -1,2 +1,4 @@
-# aoc-buddy
-A cli helper for setting up advent of code challenges
+# aoc util 
+
+
+Downloads testcases and helps to setup workspace for advent of code problems.
